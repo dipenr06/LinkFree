@@ -1,0 +1,27 @@
+{
+    "name": "Dipen Rikame",
+    "bio": "Future full stack Developer | Open Source Enthusiast | Kubernetes",
+    "avatar": "https://github.com/dipenr06.png",
+    "links": [{
+            "name": "Follow me on GitHub",
+            "url": "https://github.com/dipenr06",
+            "icon": "github"
+        },
+        {
+            "name": "Follow me on Twitter",
+            "url": "https://twitter.com/dipenr06",
+            "icon": "twitter"
+        }
+    ],
+    "milestones": [{
+            "title": "Started Learning",
+            "date": "June 2020",
+            "icon": "dollar",
+            "color": "grey",
+            "description": "Started to learn coding after 2 years again"
+
+        }
+
+
+    ]
+}
